@@ -1,5 +1,3 @@
-# AI-CROP-DISEASE-PREDICTION
-A deep learning project that classifies crop diseases from leaf images using CNN and Python.
 # AI Crop Disease Prediction 🌱
 
 ## 📌 Project Overview
@@ -61,3 +59,31 @@ cd AI-CROP-DISEASE-PREDICTION
 pip install -r requirements.txt
 3️⃣ Run the application
 streamlit run app.py
+📊 Dataset
+
+The dataset consists of labeled leaf images of different crop diseases.
+Due to size limitations, the dataset is not uploaded here.
+
+Dataset source:
+
+Kaggle (Plant Disease Dataset)
+
+🎓 Academic Use
+
+This project was developed as part of the BCA (Generative AI) curriculum and is intended for academic and learning purposes.
+
+👩‍💻 Author
+
+Sanjana N
+BCA – Generative AI
+SRM University
+
+⭐ Future Enhancements
+
+Support for more crop varieties
+
+Mobile application integration
+
+Real-time disease detection
+
+Severity prediction
