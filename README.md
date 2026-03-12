@@ -47,7 +47,57 @@ You can:
 - Train the model using `train.py`, OR
 - Download the trained model from an external source (Google Drive / Kaggle)
 
+## Dataset
+This project uses the PlantVillage Dataset.
+
+Download from Kaggle:
+(https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset)
+
+After downloading:
+1. Extract the zip file
+2. Place all class folders inside dataset/train/
 ---
+## Dataset
+This project uses a subset of the PlantVillage Dataset.
+
+Download from Kaggle:
+https://www.kaggle.com/datasets/emmarex/plantdisease
+
+## Crops and Diseases Covered (20 Classes)
+
+🍎 Apple (4 classes)
+   - Apple Scab
+   - Black Rot
+   - Cedar Apple Rust
+   - Healthy
+
+🌽 Corn / Maize (4 classes)
+   - Cercospora Leaf Spot
+   - Common Rust
+   - Northern Leaf Blight
+   - Healthy
+
+🍇 Grape (4 classes)
+   - Black Rot
+   - Esca (Black Measles)
+   - Leaf Blight
+   - Healthy
+
+🥔 Potato (2 classes)
+   - Late Blight
+   - Healthy
+
+🍓 Strawberry (2 classes)
+   - Leaf Scorch
+   - Healthy
+
+🍅 Tomato (4 classes)
+   - Bacterial Spot
+   - Late Blight
+   - Septoria Leaf Spot
+   - Healthy
+
+Total: 6 Crops | 20 Disease Classes
 
 ## ▶️ How to Run the Project
 
